@@ -11,11 +11,11 @@
 3. توجه نحو ملف script.js وقم بإنشاء كائن باسم project
 4. عرف خواص كائن project:
 
-   - type من نوع string
-   - users من نوع number
-   - biography من نوع function: ترجع جملة تعريفية عن المشروع
-   - قم بإنشاء دالة باسم randomProperty
-   - دالة randomProperty مسؤولة عن طباعة خاصية عشوائية من خواص العنصر project (استخدم دالة ( )Random)
+   a. type من نوع string
+   b. users من نوع number
+   c. biography من نوع function: ترجع جملة تعريفية عن المشروع
+   d. قم بإنشاء دالة باسم randomProperty
+   e. دالة randomProperty مسؤولة عن طباعة خاصية عشوائية من خواص العنصر project (استخدم دالة ( )Random)
 
 آخر موعد لرفع الكود `git push` هو نهاية المحاضرة
 
