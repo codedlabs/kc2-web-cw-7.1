@@ -1,5 +1,3 @@
-// project أنشئ كائن
-
 const project = {
   type: "tech",
   users: 1000000,
@@ -7,8 +5,6 @@ const project = {
     return "Our company serves the blind who like to use tech products.";
   },
 };
-
-// randomProperty أنشئ دالة
 
 function randomProperty(x) {
   // Object of Keys
